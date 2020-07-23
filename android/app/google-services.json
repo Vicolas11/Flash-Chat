@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036472877373",
+    "firebase_url": "https://fast-chat-ac61f.firebaseio.com",
+    "project_id": "fast-chat-ac61f",
+    "storage_bucket": "fast-chat-ac61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036472877373:android:dec4955311f5c32a014554",
+        "android_client_info": {
+          "package_name": "com.vicolas.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036472877373-qnal9vp2g7qfqnhb0sodnd5ls25986m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQs9EqB2ChnoG63QRuTtHFptS3JXEp2kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036472877373-qnal9vp2g7qfqnhb0sodnd5ls25986m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
